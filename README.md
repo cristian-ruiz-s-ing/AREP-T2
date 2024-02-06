@@ -1,7 +1,8 @@
 # Taller 2
 #### Cristian Camilo Ruiz Santa
 
-Este proyecto implementa un servidor HTTP simple que obtiene información sobre películas utilizando la API de OMDb. Incluye un cliente HTML básico que permite a los usuarios buscar películas y muestra detalles sobre el primer resultado.
+Este es un servidor HTTP simple en Java diseñado para servir archivos estáticos, como HTML, CSS, JavaScript e imágenes almacenados en el disco local. El servidor es capaz de manejar solicitudes para diferentes tipos de archivos y responder adecuadamente.
+
 
 ## Cómo Ejecutar
 
